@@ -15,11 +15,7 @@ The **Playfair Cipher** is a manual symmetric encryption technique that operates
 3. **Decryption**:  
    The decryption process follows the reverse of the encryption rules, shifting letters to the left or upward instead of right or downward, and applying the rectangle rule as well.
 
-## Example:
 
-- Keyword: `KEYWORD`
-- Plaintext: `HELLO WORLD`
-- Encrypted Text: Generated based on the Playfair cipher rules described above.
 
 This technique is more complex than simple monoalphabetic ciphers, making frequency analysis more difficult for attackers. However, it remains vulnerable to known plaintext attacks if not used carefully.
 
